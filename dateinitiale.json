@@ -1,0 +1,146 @@
+{
+  "artisti": [
+    {
+      "nume": "Maroon 5",
+      "id": 1
+    },
+    {
+      "nume": "The Weeknd",
+      "id": 2
+    },
+    {
+      "nume": "Post Malone",
+      "id": 3
+    },
+    {
+      "nume": "Twenty One Pilots",
+      "id": 4
+    },
+    {
+      "nume": "Lady Gaga",
+      "id": 5
+    }
+  ],
+  "albume": [
+    {
+      "nume": "Songs About Jane",
+      "pret": 10,
+      "img": "scr",
+      "data_aparitie": "25/06/2002",
+      "id": 1,
+      "artistid": 1
+    },
+    {
+      "nume": "It Won't Be Soon Before Long",
+      "pret": 12,
+      "img": "scr",
+      "data_aparitie": "22/05/2007",
+      "id": 2,
+      "artistid": 1
+    },
+    {
+      "nume": "Hands All Over",
+      "pret": 16,
+      "img": "scr",
+      "data_aparitie": "21/09/2010",
+      "id": 3,
+      "artistid": 1
+    },
+    {
+      "nume": "Kiss Land",
+      "pret": 13,
+      "img": "scr",
+      "data_aparitie": "10/09/2013",
+      "id": 4,
+      "artistid": 2
+    },
+    {
+      "nume": "Beauty Behind the Madness",
+      "pret": 11,
+      "img": "scr",
+      "data_aparitie": "28/08/2015",
+      "id": 5,
+      "artistid": 2
+    },
+    {
+      "nume": "Starboy",
+      "pret": 15,
+      "img": "scr",
+      "data_aparitie": "25/09/2016",
+      "id": 6,
+      "artistid": 2
+    },
+    {
+      "nume": "Stoney",
+      "pret": 9,
+      "img": "scr",
+      "data_aparitie": "09/12/2016",
+      "id": 7,
+      "artistid": 3
+    },
+    {
+      "nume": "Beerbongs & Bentleys",
+      "pret": 12,
+      "img": "scr",
+      "data_aparitie": "27/08/2018",
+      "id": 8,
+      "artistid": 3
+    },
+    {
+      "nume": "Hollywood's Bleeding",
+      "pret": 10,
+      "img": "scr",
+      "data_aparitie": "6/09/2019",
+      "id": 9,
+      "artistid": 3
+    },
+    {
+      "nume": "Twenty One Pilots",
+      "pret": 8,
+      "img": "scr",
+      "data_aparitie": "29/12/2009",
+      "id": 10,
+      "artistid": 4
+    },
+    {
+      "nume": "Regional at Best",
+      "pret": 15,
+      "img": "scr",
+      "data_aparitie": "08/07/2011",
+      "id": 11,
+      "artistid": 4
+    },
+    {
+      "nume": "Vessel",
+      "pret": 13,
+      "img": "scr",
+      "data_aparitie": "08/01/2013",
+      "id": 12,
+      "artistid": 4
+    },
+    {
+      "nume": "The Fame",
+      "pret": 14,
+      "img": "scr",
+      "data_aparitie": "28/10/2008",
+      "id": 13,
+      "artistid": 5
+    },
+    {
+      "nume": "Born This Way",
+      "pret": 16,
+      "img": "scr",
+      "data_aparitie": "23/05/2011",
+      "id": 14,
+      "artistid": 5
+    },
+    {
+      "nume": "Artpop",
+      "pret": 12,
+      "img": "scr",
+      "data_aparitie": "11/11/2013",
+      "id": 15,
+      "artistid": 5
+    }
+  ]
+}
